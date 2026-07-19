@@ -1,0 +1,23 @@
+index.html
+  s_11a8a235c0fe39::t_b44aa8ef43f8ee 1-21
+privacidad.html
+  s_11a8a235c0fe39::t_e770748fb54cd4 1-74
+soporte.html
+  s_11a8a235c0fe39::t_e1f0c4fcf5367f 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "cca996be0980d9a5701976a5cbe92a2c7a9c82d0",
+  "prompts": {},
+  "sessions": {
+    "s_11a8a235c0fe39": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af7c32c4-22d4-4237-b632-19195fed90bd",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Federico Mete <fedee.1989@gmail.com>"
+    }
+  }
+}
